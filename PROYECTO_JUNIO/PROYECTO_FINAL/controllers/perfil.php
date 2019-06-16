@@ -127,7 +127,7 @@
                 header("location:http://localhost/PROYECTO_JUNIO/PROYECTO_FINAL/perfil/verUsuario/" . $usuario . "/?fracasoModificarEmailVacio");
                 die();
 
-            }else if(!preg_match('/^[-0-9a-zA-Z.+]+@[-0-9a-zA-Z.+_]+(\.[a-zA-Z]{2,4})$/', $email)){
+            }else if(!preg_match('/^[-0-9a-zA-Z_.+]+@[-0-9a-zA-Z.+_]+(\.[a-zA-Z]{2,4})$/', $email)){
 
                 header("location:http://localhost/PROYECTO_JUNIO/PROYECTO_FINAL/perfil/verUsuario/" . $usuario . "/?fracasoModificarEmail");
                 die();
