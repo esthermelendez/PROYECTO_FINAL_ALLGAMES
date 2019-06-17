@@ -61,13 +61,7 @@
 
         function render($param = null){
             
-            // $pagina = $param[0];
-
-            // $numpagtotal = $this->model->contarPaginas();
-            // $this->view->numpagtotal = $numpagtotal;
-
-            // $juego = $this->model->getJuegos($pagina);
-            // $this->view->juego = $juego;
+            
             $this->view->render("aniadirJuego/index");
         }
     }
