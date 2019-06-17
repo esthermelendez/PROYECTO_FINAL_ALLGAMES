@@ -43,7 +43,7 @@
                             $usuario = new Usuario();
                             $usuario = $row; 
 
-                            if($usuario->usuario == "hola99"){
+                            if($usuario->usuario == "admin"){
                                 
                             }else{
                                 echo '<tr id="fila-' . $usuario->usuario . '">
