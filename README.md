@@ -1,7 +1,7 @@
 # PROYECTO_FINAL_ALLGAMES
 
 En este repositório se encuentran los archivos necesarios para ejecutar en local la aplicación web.
-Si deseas ver la presentación, pulsa [aqui](https://www.canva.com/design/DADdLw-JNHQ/CMjm6pbOwSE4dnuIxWVMVQ/view?presentation#1)
+Si deseas ver la presentación, pulsa [aqui](https://www.canva.com/design/DADdLw-JNHQ/CMjm6pbOwSE4dnuIxWVMVQ/view?presentation#1).
 
 # ¿QUE ES ALL GAMES?
 
